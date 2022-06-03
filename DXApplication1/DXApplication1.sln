@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{9A8F3834-2211-4BFC-ACBF-C66353C1FCE6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Calculator_Version _3.5", "Setup1\Setup1.vdproj", "{EAD1211F-E43F-4CFC-93BA-3C22EDF56A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A8F3834-2211-4BFC-ACBF-C66353C1FCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8F3834-2211-4BFC-ACBF-C66353C1FCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8F3834-2211-4BFC-ACBF-C66353C1FCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8F3834-2211-4BFC-ACBF-C66353C1FCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD1211F-E43F-4CFC-93BA-3C22EDF56A6F}.Debug|Any CPU.ActiveCfg = Debug
+		{EAD1211F-E43F-4CFC-93BA-3C22EDF56A6F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

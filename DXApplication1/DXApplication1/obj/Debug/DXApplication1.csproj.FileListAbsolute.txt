@@ -1,0 +1,20 @@
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\hd\documents\visual studio 2010\Projects\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\hd\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\hd\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\hd\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
